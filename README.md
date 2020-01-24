@@ -48,4 +48,6 @@ This assignment will just familarize you with the environment we'll use: Microso
 #### 5. README
 1. Open the [README](README.md) file by first clicking on the filename and then clicking the "pencil" icon. You will see the file in _markdown_ format. Note the `md` extension. This is an easy language for formatting the text with highlights, headings, links, images, etc. Refer to the [Github markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for the most common features.
 2. Create item 3 below **in bold**. Create item 4 below _in italic_. Scroll up and click the **Preview** button. The file will be rendered with the changes highlighted. Commit the file.
+3. **In item four, you will find a link to a JavaScript Program I created.**
+4. *The link I mentioned in item 3 can be found [HERE](https://github.com/CPE-1040-Spring-2020/assignment-1-dive-into-micro-bit-Samisauur/blob/master/microbit-basic-program.js).*
 
